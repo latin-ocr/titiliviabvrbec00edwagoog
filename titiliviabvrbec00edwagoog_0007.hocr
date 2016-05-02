@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./titiliviabvrbec00edwagoog_0007.png"; bbox 0 0 2659 3942; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 231 126 1136 234">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 231 126 1136 234">
+     <span class='ocr_line' id='line_1_1' title="bbox 231 126 1136 234; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 231 139 428 234; x_wconf 87' lang='lat' dir='ltr'><strong>Pitt</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 503 126 768 233; x_wconf 52' lang='lat' dir='ltr'><strong>Presss</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 845 138 1136 233; x_wconf 84' lang='lat' dir='ltr'>Series</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 485 1563 2099 1903">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 485 1563 2099 1903">
+     <span class='ocr_line' id='line_1_2' title="bbox 995 1563 1584 1684; baseline -0.002 -10"><span class='ocrx_word' id='word_1_4' title='bbox 995 1563 1267 1684; x_wconf 52' lang='lat' dir='ltr'>TITI&#39;</span> <span class='ocrx_word' id='word_1_5' title='bbox 1337 1565 1584 1675; x_wconf 79' lang='lat' dir='ltr'><strong>lel</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 485 1769 2099 1903; baseline -0.001 -32"><span class='ocrx_word' id='word_1_6' title='bbox 485 1795 633 1871; x_wconf 84' lang='lat' dir='ltr'><strong>AB</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 736 1769 1684 1903; x_wconf 66' lang='lat' dir='ltr'><strong>VRBE&#39;CONDITA</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1786 1790 2099 1872; x_wconf 86' lang='lat' dir='ltr'>LIBRI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 907 2025 1760 2107">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 907 2025 1760 2107">
+     <span class='ocr_line' id='line_1_4' title="bbox 907 2025 1760 2107; baseline -0.005 -12"><span class='ocrx_word' id='word_1_9' title='bbox 907 2025 1212 2107; x_wconf 88' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_10' title='bbox 1281 2025 1697 2105; x_wconf 84' lang='lat' dir='ltr'>PRIMVS·</span> <span class='ocrx_word' id='word_1_11' title='bbox 1723 2081 1729 2085; x_wconf 94' lang='lat'>.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1755 2074 1760 2078; x_wconf 84' lang='lat'><em>-</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
